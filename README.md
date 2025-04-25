@@ -34,7 +34,7 @@ The Street Patrol Management System is designed to help volunteer teams coordina
   - Generate detailed patrol reports
   - Export data in CSV and HTML formats
   - Filter by date ranges
-  - Aggregate statistics and trends
+  - Aggregate statistics and trends.
 
 ## Technical Specifications
 
